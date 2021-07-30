@@ -1,0 +1,5 @@
+{'status': True, 'p_high': 68, 'p_low': 0, 'resp': False}
+{'status': True, 'p_high': 24, 'p_low': 82, 'resp': False}
+{'status': False, 'p_high': 28, 'p_low': 38, 'resp': False}
+{'status': False, 'p_high': 39, 'p_low': 82, 'resp': False}
+{'status': False, 'p_high': 62, 'p_low': 51, 'resp': False}
